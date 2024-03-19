@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ce0CY0XAoT6Zn8U3l+attu/rJnpP4v3Ilwdd70uegG4=",
+  "Source": "reCaptchaAPI",
+  "BasePath": "_content/reCaptchaAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
